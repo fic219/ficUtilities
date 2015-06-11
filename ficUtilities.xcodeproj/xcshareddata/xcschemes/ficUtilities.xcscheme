@@ -34,6 +34,20 @@
                ReferencedContainer = "container:ficUtilities.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C60CACA81B2988D00068FC19"
+               BuildableName = "UtilsTests.xctest"
+               BlueprintName = "UtilsTests"
+               ReferencedContainer = "container:ficUtilities.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -49,6 +63,16 @@
                BlueprintIdentifier = "C60CAC891B2985D40068FC19"
                BuildableName = "ficUtilitiesTests.xctest"
                BlueprintName = "ficUtilitiesTests"
+               ReferencedContainer = "container:ficUtilities.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C60CACA81B2988D00068FC19"
+               BuildableName = "UtilsTests.xctest"
+               BlueprintName = "UtilsTests"
                ReferencedContainer = "container:ficUtilities.xcodeproj">
             </BuildableReference>
          </TestableReference>
