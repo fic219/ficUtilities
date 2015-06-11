@@ -19,9 +19,9 @@
 		C60CACB31B2988D00068FC19 /* UtilsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C60CACB21B2988D00068FC19 /* UtilsTests.m */; };
 		C60CACB61B2988D00068FC19 /* Utils.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C60CAC9F1B2988D00068FC19 /* Utils.framework */; };
 		C60CACB71B2988D00068FC19 /* Utils.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C60CAC9F1B2988D00068FC19 /* Utils.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		C60CACC11B29895A0068FC19 /* FUFonts.h in Headers */ = {isa = PBXBuildFile; fileRef = C60CACBF1B29895A0068FC19 /* FUFonts.h */; };
 		C60CACC21B29895A0068FC19 /* FUFonts.m in Sources */ = {isa = PBXBuildFile; fileRef = C60CACC01B29895A0068FC19 /* FUFonts.m */; };
 		C60CACC31B29895A0068FC19 /* FUFonts.m in Sources */ = {isa = PBXBuildFile; fileRef = C60CACC01B29895A0068FC19 /* FUFonts.m */; };
+		C60CACC61B298BEF0068FC19 /* FUFonts.h in Headers */ = {isa = PBXBuildFile; fileRef = C60CACBF1B29895A0068FC19 /* FUFonts.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -233,8 +233,8 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C60CACC11B29895A0068FC19 /* FUFonts.h in Headers */,
 				C60CACA41B2988D00068FC19 /* Utils.h in Headers */,
+				C60CACC61B298BEF0068FC19 /* FUFonts.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
